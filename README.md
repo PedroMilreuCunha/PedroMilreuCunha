@@ -1,5 +1,5 @@
 - Olá, visitante! Espero que esteja bem. Meu nome é Pedro Milreu Cunha e sou mestrando em Economia Aplicada pelo Programa de Pós-Graduação em Economia (PPGE)
-da Universidade Federal da Paraíba (UFPB) e bacharél em Ciências Econômicas pela Universidade Federal de Viçosa (UFV).
+da Universidade Federal da Paraíba (UFPB) e bacharél em Ciências Econômicas pela Universidade Federal de Viçosa (UFV). Neste repositório mantenho os scripts e os dados necessários para a replicação de projetos pessoais e artigos nos quais estou trabalhando (ou que já finalizei).
 
 - Meus interesses atuais são análises de dados e modelagens econométricas voltadas para a área de economia aplicada, com ênfase no estudo da criminalidade. 
 Já realizei pesquisa na área de economia da educação, tratando do impacto da greve universitária de 2012 sobre o rendimentos dos discentes no ENADE e também 
