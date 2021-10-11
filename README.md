@@ -9,7 +9,7 @@ tratei da temática de comércio internacional e sua relação com o meio-ambien
 de relatórios. Além disso, também utilizo com frequência o LaTeX para elaboração de documentos acadêmicos e relatórios.
 
 - No momento estou: i) melhorando meu domínio da linguagem Python; ii) aprendendo a automatizar e extrair dados de repositórios online utilizando R e
-iii) iniciando meus estudos sobre MySQL.
+iii) iniciando meus estudos sobre MySQL e sobre ferramentas para visualização de dados (PowerBI e Tableau).
 
 - Você pode entrar em contato comigo das seguintes maneiras:
   
