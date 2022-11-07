@@ -5,11 +5,10 @@ da Universidade Federal da Paraíba (UFPB), mestre em Economia Aplicada pelo mes
 Já realizei pesquisa na área de economia da educação, tratando do impacto da greve universitária de 2012 sobre o rendimentos dos discentes no ENADE e também 
 tratei da temática de comércio internacional e sua relação com o meio-ambiente no meu Trabalho de Conclusão de Curso (TCC).
 
-- Tenho experiência com utilização da linguagem de programação R para análise, visualização e estimação de dados bem como o uso do RMarkdown para elaboração
-de relatórios. Além disso, também utilizo com frequência o LaTeX para elaboração de documentos acadêmicos e relatórios.
+  - Além disso, tenho experiência e muito interesse na área de Avaliação de Impactos, já tendo utilizado técnicas como PSM, Diff-and-Diff, Análise de Quebras Estruturais, dentre outras, para buscar estimar relações causais e não apenas correlações.
 
-- No momento estou: i) melhorando meu domínio da linguagem Python; ii) aprendendo a automatizar e extrair dados de repositórios online utilizando R e
-iii) iniciando meus estudos sobre MySQL e sobre ferramentas para visualização de dados (PowerBI e Tableau).
+- Tenho experiência com utilização da linguagem de programação R para análise, visualização e estimação de dados bem como o uso do RMarkdown para elaboração
+de relatórios. Além disso, também utilizo com frequência o LaTeX para elaboração de documentos acadêmicos e relatórios. Por fim, sou experiente no uso da linguagem Python, tanto para análises estatísticas e criação de relatórios (Jupyter Notebooks) quanto para outras atividades, como automação e criação de programas com GUI a partir do módulo Gooey.
 
 - Você pode entrar em contato comigo das seguintes maneiras:
   
